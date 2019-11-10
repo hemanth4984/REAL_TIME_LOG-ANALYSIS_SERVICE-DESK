@@ -1,0 +1,7 @@
+{
+  "source": [
+    "net.utoolity.atlassian",
+    "net.utoolity.atlassian.bamboo.automation-with-aws-bamboo",
+    "net.utoolity.atlassian.jira.automation-with-aws-jira"
+  ]
+}
